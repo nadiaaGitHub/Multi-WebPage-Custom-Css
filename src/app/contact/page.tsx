@@ -1,11 +1,8 @@
-import Hero from "@/Component/Hero";
 import Contact from "@/Component/Contact";
 
-
-export default function Home(){
+export default function cont(){
   return(
     <>
-    <Hero/>
     <Contact/>
     </>
   )
