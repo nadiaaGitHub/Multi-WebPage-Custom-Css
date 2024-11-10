@@ -11,9 +11,7 @@
     background-size: contain; 
     background-position: 25% 75%;
     background-repeat: no-repeat;
-   
 }
-
 .contactFormContainer {
     position: relative;
     width: 400px;
@@ -23,26 +21,22 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     z-index: 10;
 }
-
 .contactForm {
     display: flex;
     flex-direction: column;
     position: relative;
     z-index: 10;
 }
-
 .contactForm h2 {
     font-size: 24px;
     margin-bottom: 20px;
     text-align: center;
 }
-
 .formGroup {
     margin-bottom: 15px;
     position: relative;
     z-index: 10;
 }
-
 .formGroup input,
 .formGroup textarea {
     width: 100%;
@@ -55,38 +49,30 @@
     outline: none;
     z-index: 10;
 }
-
 .formGroup textarea {
     resize: none;
     height: 80px;
 }
-
 .send-btn {
     padding: 10px;
     background-color: #b68e32c1;
     border: none;
     font-size: 20px;
     border-radius: 5px;
-   
     font-weight: bold;
     box-shadow: 5px 4px 10px #514f4cc1;
     cursor: pointer;
     z-index: 10;
 }
-
 .send-btn:hover {
     transform: scale(1.05);
     box-shadow: 10px 8px 20px rgba(0, 0, 0, 0.3);
     font-weight: bold;
 }
-
-
 @media screen and (min-width:100px) and (max-width:768px){
     .contactFormContainer {
         position: relative;
         width: 290px;
-        padding: 20px;
-       
-       
+        padding: 20px;  
     }
 }

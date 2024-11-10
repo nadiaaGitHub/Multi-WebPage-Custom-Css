@@ -8,8 +8,8 @@ export default function about() {
       <div className="cv-left-box">
         {/* right */}
         <div className="cv-right-box">
-          <h1 className="cv-title"><b>Hii..! I'm Nadia Idrees.</b></h1>
-          <p className="cv-para">Hello!😊😊 My name is Nadia Idrees, and I am a "Web Developer"with a passion for "creating efficient and responsive websites.</p>
+          <h1 className="cv-title"><b>Hii..! I&apos;m Nadia Idrees.</b></h1>
+          <p className="cv-para">Hello!😊😊 My name is Nadia Idrees, and I am a Web Developer with a passion for creating efficient and responsive websites.</p>
           <a href="/pdf/Nadia-Idrees-Resume.pdf" target="_blank" >
           <button className="cv-button" >View Resume</button>
           </a>

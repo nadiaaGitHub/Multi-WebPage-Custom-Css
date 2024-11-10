@@ -8,15 +8,12 @@
     align-items: center;
     box-shadow: 0px 4px 10px #1d1d1cc1;
     position: relative;
- 
 }
 .cv-left-box {
     width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    
-  
 }
 .cv-left-box {
     width: 80%;
@@ -35,19 +32,13 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-   
 }
-
-
-
-
 .cv-image {
     border-radius: 16% 53% / 61% 1%;
     width: 250px;
     height: 290px;
     box-shadow: 5px 4px 10px black;
     border: 2mm ridge black;
-
 }
 .cv-image:hover{
     transform: scale(1.09); /* Slightly enlarges button */
